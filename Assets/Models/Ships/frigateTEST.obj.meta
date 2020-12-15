@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: b9bfd00d8e868ba4c939210e8a13e2b9
+timeCreated: 1428011227
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cube
+    100002: //RootNode
+    100004: frigateTEST:Cube
+    100006: Ship_Hull
+    100008: Ship_UpperDeck
+    100010: frigate_TEST
+    100012: Ship_Hull_Ship_SuperStructure
+    400000: Cube
+    400002: //RootNode
+    400004: frigateTEST:Cube
+    400006: Ship_Hull
+    400008: Ship_UpperDeck
+    400010: frigate_TEST
+    400012: Ship_Hull_Ship_SuperStructure
+    2300000: Cube
+    2300002: frigateTEST:Cube
+    2300004: Ship_Hull
+    2300006: Ship_UpperDeck
+    2300008: frigate_TEST
+    2300010: Ship_Hull_Ship_SuperStructure
+    3300000: Cube
+    3300002: frigateTEST:Cube
+    3300004: Ship_Hull
+    3300006: Ship_UpperDeck
+    3300008: frigate_TEST
+    3300010: Ship_Hull_Ship_SuperStructure
+    4300000: Cube
+    4300002: frigateTEST:Cube
+    4300004: Ship_Hull
+    4300006: Ship_UpperDeck
+    4300008: frigate_TEST
+    4300010: Ship_Hull_Ship_SuperStructure
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
